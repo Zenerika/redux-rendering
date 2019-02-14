@@ -12,3 +12,5 @@ addName.addEventListener('submit', e => e.preventDefault(dispatch({
     type: "ADD_NAME", 
     input: nameInput.value 
 })))
+
+// todo
